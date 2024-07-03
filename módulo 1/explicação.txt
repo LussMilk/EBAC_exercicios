@@ -1,0 +1,7 @@
+HTML é uma linguagem de marcação, e não de programação como muitos pensam. Ela é essencialmente usada para estruturar o conteúdo de uma página web, utilizando elementos como título <h1>, parágrafo <p>, lista não ordenada <ul>, lista ordenada <ol>, item da lista <li>, imagem <img>, entre outros.
+
+CSS é uma linguagem de estilo usada para organizar o layout e a responsividade de uma página web. Com CSS, podemos dar cores aos elementos, posicioná-los de forma desejada, alterar a fonte dos textos, entre outras coisas.
+
+JavaScript é uma linguagem de programação usada para criar elementos interativos e dinâmicos em uma página web. Com ele, podemos criar funcionalidades como um carrossel de imagens, validação de formulários em tempo real, entre outras interações responsivas.
+
+Juntas, essas três tecnologias possibilitam a construção de páginas web ricas, funcionais e agradáveis para os usuários, combinando estrutura, estilo e interatividade de forma harmoniosa.
